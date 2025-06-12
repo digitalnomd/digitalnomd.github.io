@@ -1,8 +1,8 @@
-title: Fast AI Tech
+title: My blog
 author: Rob Grossman
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  All things related to tech, AI, and entrepreneurship.
+  Following my curiosity wherever it may lead.
 
 # social links
 twitter_username: # DO NOT include the @ character, or else the build will fail!
